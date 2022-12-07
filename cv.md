@@ -62,6 +62,7 @@ $(window).scroll(function() {
   * [Udemy](https://www.udemy.com/)
   * [Teach Me Skills](https://teachmescills.by/)
   * [RS-School](https://rs.school/)
+  * [You-tube](https://www.youtube.com/c/freelancerlifestyle)
   
   ----------------------------------
   ### English
